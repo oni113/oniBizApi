@@ -1,8 +1,5 @@
 node_modules/
 package-lock.json
-<<<<<<< HEAD
-*.bat
-=======
 distributor/log.txt
 sql/
->>>>>>> bbf473f63d385575b88be72911b77254ce3aa5f0
+*.bat
